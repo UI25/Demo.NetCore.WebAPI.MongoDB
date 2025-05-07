@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17824072-4C2C-4DC9-8E41-D767454539C9}|WebAPI.MongoDB\\WebAPI.MongoDB.csproj|d:\\dell-documents\\projects\\githubrepository\\demo.netcore.webapi.mongodb\\webapi.mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17824072-4C2C-4DC9-8E41-D767454539C9}|WebAPI.MongoDB\\WebAPI.MongoDB.csproj|solutionrelative:webapi.mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17824072-4C2C-4DC9-8E41-D767454539C9}|WebAPI.MongoDB\\WebAPI.MongoDB.csproj|d:\\dell-documents\\projects\\githubrepository\\demo.netcore.webapi.mongodb\\webapi.mongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17824072-4C2C-4DC9-8E41-D767454539C9}|WebAPI.MongoDB\\WebAPI.MongoDB.csproj|solutionrelative:webapi.mongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17824072-4C2C-4DC9-8E41-D767454539C9}|WebAPI.MongoDB\\WebAPI.MongoDB.csproj|d:\\dell-documents\\projects\\githubrepository\\demo.netcore.webapi.mongodb\\webapi.mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17824072-4C2C-4DC9-8E41-D767454539C9}|WebAPI.MongoDB\\WebAPI.MongoDB.csproj|solutionrelative:webapi.mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2047757283:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:861240488:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\WebAPI.MongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI.MongoDB\\Program.cs",
+              "ToolTip": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\WebAPI.MongoDB\\Program.cs",
+              "RelativeToolTip": "WebAPI.MongoDB\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:11:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\WebAPI.MongoDB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI.MongoDB\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\WebAPI.MongoDB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI.MongoDB\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T21:10:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\WebAPI.MongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI.MongoDB\\appsettings.json",
+              "ToolTip": "D:\\DELL-Documents\\Projects\\GitHubRepository\\Demo.NetCore.WebAPI.MongoDB\\WebAPI.MongoDB\\appsettings.json",
+              "RelativeToolTip": "WebAPI.MongoDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T20:01:56.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

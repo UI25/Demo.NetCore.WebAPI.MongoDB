@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X60Pi1ZtM9bL+oLB0S8E2+uK4zsCubESFbnChgsG3us=",
+  "Source": "WebAPI.MongoDB",
+  "BasePath": "_content/WebAPI.MongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
